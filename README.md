@@ -13,6 +13,7 @@ Installation
 
 Once installed, open the app and browse through the various sections to view the schedule, artist bios, and map. You can also customize your experience by creating a personal schedule and enabling push notifications.
 
+coding is done using app inventor
 Support
 If you have any issues with the app or have any suggestions for improvements, please contact us at [email address]. We will do our best to resolve any problems and make your festival experience as enjoyable as possible.
 
