@@ -9,9 +9,9 @@ Schedule of performances: view the schedule of performances by stage and time, a
 Artist bios: read about the performers and learn more about their music and background.
 Map of the festival grounds: navigate the festival with ease using the interactive map, which shows the location of stages, vendors, and other points of interest.
 Push notifications: receive updates and alerts about schedule changes, special events, and more.
-Installation
 
-Once installed, open the app and browse through the various sections to view the schedule, artist bios, and map. You can also customize your experience by creating a personal schedule and enabling push notifications.
+Installation
+Once installed, open the app and browse through the various sections to view the schedule, artist bios, and map. users can also customize their experience by creating a personal schedule and enabling push notifications.
 
 coding is done using app inventor
 Support
